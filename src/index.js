@@ -1,12 +1,22 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+//import App from './App';
+//import HelloWorld from './state-drills/HelloWorld';
+//import Bomb from './state-drills/Bomb';
+import Roulette from './state-drills/Roulette'
 import * as serviceWorker from './serviceWorker';
+//import ShowBox from './state-drills/ShowBox';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    {/*<App />*/}{/**/}
+    {/*<HelloWorld />*/}
+    {/*<ShowBox />*/}
+    {/*<Bomb />*/}
+    <Roulette />
+    
+    
   </React.StrictMode>,
   document.getElementById('root')
 );

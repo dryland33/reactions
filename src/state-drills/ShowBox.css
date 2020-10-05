@@ -1,0 +1,19 @@
+body {
+    color: blue;
+    background-color: black;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+.box {
+
+}
+
+.boxhidden {
+    display: none;
+}

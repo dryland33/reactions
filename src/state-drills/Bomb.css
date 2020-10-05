@@ -1,0 +1,21 @@
+body {
+    color: red;
+    background-color: black;
+}
+
+.detonated {
+    font-size: 80px;
+    color: white;
+}
+
+.notdetonated {
+    font-size: 40px;
+    color: red;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
